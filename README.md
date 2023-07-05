@@ -1,2 +1,2 @@
 # freecodeproj1
-My first html code with help of freecodecamp.com
+My first HTML project with with tutors from freecodecamp.com
