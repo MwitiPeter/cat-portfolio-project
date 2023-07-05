@@ -1,2 +1,2 @@
-# freecodeproj1
-My first HTML project with with tutors from freecodecamp.com
+# freecodeproj1(cat portfolio with HTML)
+My first HTML project with tutors from freecodecamp.com
